@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "catalog-index-image": "quay.io/rhdh-community/plugin-catalog-index:2.1-bs_1.54.6-4737d60"
+    "catalog-index-image": "quay.io/rhdh-community/plugin-catalog-index:2.2-bs_1.54.6-7aa4203"
   },
   "plugins": {
     "red-hat-developer-hub-backstage-plugin-adoption-insights-backend": {
@@ -693,7 +693,7 @@
         "validate": {
           "status": "pass",
           "warnings": [
-            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-catalog-backend-module-extensions' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found \u2014 the index ships an older build"
+            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-catalog-backend-module-extensions' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found — the index ships an older build"
           ]
         }
       },
@@ -724,7 +724,7 @@
         "validate": {
           "status": "pass",
           "warnings": [
-            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-extensions-backend' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found \u2014 the index ships an older build"
+            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-extensions-backend' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found — the index ships an older build"
           ]
         }
       },
@@ -755,7 +755,7 @@
         "validate": {
           "status": "pass",
           "warnings": [
-            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-extensions' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found \u2014 the index ships an older build"
+            "[fallback-tag] 'red-hat-developer-hub-backstage-plugin-extensions' resolved to bs_1.54.6__0.20.0 after bs_1.54.6__1.0.1 was not found — the index ships an older build"
           ]
         }
       },
