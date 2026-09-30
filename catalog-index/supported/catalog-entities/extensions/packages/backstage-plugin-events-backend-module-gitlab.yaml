@@ -17,7 +17,7 @@ metadata:
 spec:
   packageName: "@backstage/plugin-events-backend-module-gitlab"
   # Tag: bs_1.54.6__0.3.15
-  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-events-backend-module-gitlab@sha256:2a9867caee53962b45040f29e3a125b9aec427e20d70e889ef545c3a9754bc4a"
+  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-events-backend-module-gitlab@sha256:a7d0286d214df73583bf599714c9ee860d5f3a0707447ff6ad901237351ecbb7"
   version: 0.3.15
   backstage:
     role: backend-plugin-module
